@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack Web Development on topic Library Management System<br><br>🌱 I’m currently learning Data Science, Full Stack Web Development and Programming Data Warehousing, Data Mining, Data Visualization, Big Data Analytics, Django, Flask, Node JS, Express, HTML, Java Script, Java, Python, C, C++<br><br>👨‍💻 All of my projects are available at https://github.com/Surajk7725<br><br>📛 All of my Badges are available at https://www.credly.com/users/suraj-kumar.0e647258<br><br>📫 How to reach me 2100032404cseh@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1n5kKfNdCSIi8ZTAO8HAu4YOB4tSgx1C0/view?usp=drive_link
+👨‍💻 All of my projects are available at https://github.com/Surajk7725<br><br>📛 All of my Badges are available at https://www.credly.com/users/suraj-kumar.0e647258<br><br>📫 How to reach me 2100032404cseh@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1n5kKfNdCSIi8ZTAO8HAu4YOB4tSgx1C0/view?usp=drive_link
 
 
 ##  Connect With Me!
